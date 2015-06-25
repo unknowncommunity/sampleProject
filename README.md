@@ -1,1 +1,1 @@
-# sampleProject
+localhost:8080/sample/sampleGet - use this url to check that everything works ^^
